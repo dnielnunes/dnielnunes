@@ -15,9 +15,11 @@ Aqui estão algumas ideias para você começar:
 
 
 
-## Olá, meu nome é Daniel Nunes, sou um administrador de sistemas, e presto suporte técnico atualmente na área de telecomunicações. 💻
+## Olá, meu nome é Daniel Nunes, sou um administrador de sistemas. 💻
 
-Trabalho com servidores Linux, Windows, Asterisk, banco de dados e possuo a certificação internacional Linux Essentials.📚
+Atualmente presto suporte técnico na área de telecomunicações. 
+
+Desepempenhando tarefas relacionadas à segurança da informação e realizo o gerenciamento servidores Linux, Windows, Asterisk, banco de dados, também possuo a certificação internacional Linux Essentials.📚
 
 Sou apaixonado por segurança da informação, tecnologia e sempre estou em busca de aprender mais e crescer profissionalmente.🚀
 
