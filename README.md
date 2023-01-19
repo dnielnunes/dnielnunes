@@ -15,7 +15,7 @@ Aqui estão algumas ideias para você começar:
 
 
 
-## Olá, meu nome é Daniel Nunes, sou um administrador de sistemas. 💻
+## Olá, meu nome é Daniel Nunes e sou um administrador de sistemas. 💻
 
 Atualmente presto suporte técnico na área de telecomunicações. 
 
