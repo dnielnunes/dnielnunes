@@ -1,5 +1,3 @@
-### Olá, meu nome é Daniel Nunes, sou um administrador de sistemas, e atualmente presto suporte técnico na área de telecomunicações. 💻
-
 <!--
 **dnielnunes/dnielnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +15,12 @@ Aqui estão algumas ideias para você começar:
 
 
 
-Trabalho com servidores Linux, Windows e bancos de dados, também possuo a certificação Linux Essentials pelo Linux Professional Institute. 📚
+## Olá, meu nome é Daniel Nunes, sou um administrador de sistemas, e presto suporte técnico atualmente na área de telecomunicações. 💻
 
-Sou apaixonado por tecnologia e sempre estou em busca de aprender mais e crescer profissionalmente. 🚀
+Trabalho com servidores Linux, Windows, Asterisk, banco de dados e possuo a certificação internacional Linux Essentials.📚
 
-Aqui no meu Github, você encontrará alguns dos meus projetos. 💡
+Sou apaixonado por segurança da informação, tecnologia e sempre estou em busca de aprender mais e crescer profissionalmente.🚀
 
-Sinta-se à vontade para dar uma olhada e entrar em contato comigo se precisar de ajuda ou tiver alguma sugestão. 🤝
+Aqui no meu Github, você encontrará alguns dos meus projetos.💡
+
+Sinta-se à vontade para dar uma olhada e entrar em contato comigo se precisar de ajuda ou tiver alguma sugestão.🤝
