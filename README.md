@@ -17,7 +17,10 @@ Aqui estão algumas ideias para você começar:
 
 
 
-Trabalho com servidores Linux, Windows e banco de dados MySQL, também possuo a certificação Linux Essentials pelo Linux Professional Institute. 📚
+Trabalho com servidores Linux, Windows e bancos de dados, também possuo a certificação Linux Essentials pelo Linux Professional Institute. 📚
+
 Sou apaixonado por tecnologia e sempre estou em busca de aprender mais e crescer profissionalmente. 🚀
+
 Aqui no meu Github, você encontrará alguns dos meus projetos. 💡
+
 Sinta-se à vontade para dar uma olhada e entrar em contato comigo se precisar de ajuda ou tiver alguma sugestão. 🤝
